@@ -1,4 +1,4 @@
-# Task 4: SQL for Data Analysis
+# Ecommerce Shipping - Data Analysis using SQL
 
 ## 📄 Brief About Dataset
 The dataset used in this task is **Ecommerce Shipping Data** containing 14 sample rows.  
